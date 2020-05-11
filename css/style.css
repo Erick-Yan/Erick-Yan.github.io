@@ -305,7 +305,7 @@ nav.scroller img{
 .mission h2[type='quote'] {
         position: relative;
         text-align: center;
-        font-size: 28px;
+        font-size: 40px;
         color: rgb(119, 117, 117);
         opacity: 0.8;
 
@@ -448,8 +448,6 @@ nav.scroller img{
         color:black;
         top:12vw;
         width: 12vw;
-        left: 50%;
-        margin-left: -6vw;
         font-size: 1.5vw;
         text-align: center;
 }
