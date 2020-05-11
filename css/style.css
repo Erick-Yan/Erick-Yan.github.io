@@ -351,24 +351,6 @@ nav.scroller img{
         overflow: scroll;
 }
 
-.tran::after {
-        position: absolute;
-        width: 4vw;
-        height: 4vw;
-        border-top: 0.2vw solid transparent;
-        border-bottom: 0.2vw solid transparent;
-        border-left: 0.2vw solid transparent;
-        border-right: 0.2vw solid transparent;
-        top:44vw;
-        left: 50%;
-        margin-left: -2vw;
-        content: '';
-        transform: rotate(45deg);
-        margin-top: -2vw;
-        background: rgb(55, 186, 196);
-        z-index: 97;
-}
-
 .facts {
         position: relative;
         top: 4vw;
