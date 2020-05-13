@@ -98,7 +98,7 @@ nav.scroller img{
                 position:absolute;
                 right:0px;
                 height:85vh;
-                top:80px;
+                top:100px;
                 background-color:white;
                 display:flex;
                 flex-direction: column;
@@ -1071,7 +1071,7 @@ nav.scroller img{
         }
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:380px) {
         nav img{
                 display:block;
                 margin-left:24vw;
